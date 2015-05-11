@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'highline/import'
+
+puts 'Testing'
